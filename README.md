@@ -15,9 +15,10 @@ The customer web tracker is a CRM system which permits
 * Java
 * Spring MVC
 * Hibernate
-* MYSQL
+* MySQL
 * JSP
 * TomCat
+* Bootstrap
 
 ##
 ![screen1](https://user-images.githubusercontent.com/28673665/81871491-6a8cbd80-9567-11ea-9359-40b933ca8cfa.png)
