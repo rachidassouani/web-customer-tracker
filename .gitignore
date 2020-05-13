@@ -1,0 +1,16 @@
+/build/
+/WebContent/META-INF
+/WebContent/WEB-INF/lib/
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
